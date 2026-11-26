@@ -1,2 +1,2 @@
-magicnumber=67
+magicnumber=99
 
